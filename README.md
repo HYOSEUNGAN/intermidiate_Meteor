@@ -1,4 +1,6 @@
 # intermidiate_Meteor
-learning
 
-recipe book
+Making recipe book project
+
+For learning skills
+ 
