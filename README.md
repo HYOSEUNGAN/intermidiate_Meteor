@@ -1,6 +1,8 @@
 # intermidiate_Meteor
-learning
+Making recipe book project
 
+For learning skills
+ 
 Packages:
 kadira:flow-router
 kadira:blaze-layout
