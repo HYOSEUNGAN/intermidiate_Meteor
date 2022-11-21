@@ -18,3 +18,8 @@ matb33:bootstrap-glyphicons
 msavin:jetsetter
 zimme:active-route
 gwendall:auth-client-callbacks
+
+
+
+meteor add aldeed:collection2
+meteor npm install --save simpl-schema
