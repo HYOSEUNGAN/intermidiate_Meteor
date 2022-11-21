@@ -1,5 +1,10 @@
-import { Meteor } from 'meteor/meteor';
+import { Meteor } from "meteor/meteor";
+import { Recipes } from "/imports/api/recipeCollections";
+
+// import "/imports/api/recipeCollections";
 
 Meteor.startup(() => {
-  // code to run on server at startup
+  console.log("서버가 정상적으로 작동됩니다!");
 });
+
+console.log(Recipes);
